@@ -1,4 +1,4 @@
-Resources, links and notes for my talk at the 2015 Selenium Conference (`video <https://www.youtube.com/watch?v=qbMtbA5spSY>`_, slides). If any information is missing and/or inaccurate or if you want to discuss further the idea of testing within asyncronous javascript frameworks please feel free to correct me.
+Resources, links and notes for my talk at the 2015 Selenium Conference (`video <https://www.youtube.com/watch?v=qbMtbA5spSY>`_, `slides <https://github.com/emanlove/SeConf2015/blob/master/SeConf2015_EdManlove_Dealertrack.pdf>`_). If any information is missing and/or inaccurate or if you want to discuss further the idea of testing within asyncronous javascript frameworks please feel free to correct me.
 
 Ed Manlove
 
