@@ -33,7 +33,7 @@ Python, Java, Ruby
 
 Adding AngularJS testing to Selenium2Library/Robot Framework - Python - https://github.com/emanlove/robotframework-selenium2library/tree/angularjs
 
-Seperate AngularJS / Selenium2Library Library - Python - https://github.com/Selenium2Library/robotframework-angularjs
+Separate AngularJS / Selenium2Library Library - Python - https://github.com/Selenium2Library/robotframework-angularjs
 
 Richard Huang AngularJS Selenium2Library - Python - https://github.com/rickypc/robotframework-extendedselenium2library
 
